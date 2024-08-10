@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Francis-Dones
+- 👀 I’m interested in mobile app development and new technologies
+- 🌱 I’m currently learning advanced Android development techniques
+- 💞️ I’m looking to collaborate on innovative mobile app projects
+- 📫 How to reach me: www.linkedin.com/in/francis-dones-8550401b3
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: I specialize in Android Java and Flutter, and I love creating intuitive mobile experiences!
